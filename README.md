@@ -1,5 +1,5 @@
 ## EksikElemaniBul
-#Veri yapıları dersi proje ödevi.# 
+# Veri yapıları dersi proje ödevi. 
 </br>Furkan Güneştaş ve Esra Türkel in yaptığı veri yapıları projesidir.
 
 **Problem Tanımı: 1 den n sayısına kadar karışık dağıtılmış sayı grubunda eksik olan sayıyı bulan fonksiyon.**
