@@ -21,4 +21,4 @@ int bagliListeArama(NODEPTR bl, int n)
 ```
 int treeeSearch(BTNODEPTR root, int n)
 ```
-**Fonksiyon gönderilen `root` isimli ikili ağaç kökü ve `n` sayısı ile eksik sayıyı bulup geri döndüren fonksiyodur.**
+**Fonksiyon gönderilen `root` isimli ikili ağaç kökü ve `n` sayısı ile ağaçtaki eksik sayıyı bulup geri döndüren fonksiyodur.**
